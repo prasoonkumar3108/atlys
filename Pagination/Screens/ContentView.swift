@@ -3,7 +3,7 @@ import SwiftUI
 // MARK: - Main View
 struct ContentView: View {
     
-    // Carousel Data: All destinations are verified as requested previously
+    //Carousel Data: All destinations are verified as requested previously
     let destinations: [Destination] = [
         .init(city: "Dubai", imageName: "dubai", stats: "53K+ Visas on Atlyś", isVerified: true),
         .init(city: "Malaysia", imageName: "malaysia", stats: "30K+ Visas processed", isVerified: true),
