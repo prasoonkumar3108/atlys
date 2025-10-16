@@ -5,7 +5,7 @@ struct ContentView: View {
     
     //Carousel Data: All destinations are verified as requested previously
     let destinations: [Destination] = [
-        .init(city: "Dubai", imageName: "dubai", stats: "53K+ Visas on Atlyś", isVerified: true),
+        .init(city: "Dubai", imageName: "dubai", stats: "53K+ Visas on Atlys", isVerified: true),
         .init(city: "Malaysia", imageName: "malaysia", stats: "30K+ Visas processed", isVerified: true),
         .init(city: "Thailand", imageName: "thailand", stats: "22K+ Visas approved", isVerified: true)
     ]
