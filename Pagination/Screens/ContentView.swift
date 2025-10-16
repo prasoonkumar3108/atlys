@@ -25,7 +25,7 @@ struct ContentView: View {
                 // MARK: Logo (FIXED: Centering, Spacing, Color, and Arrow placement)
                 VStack(spacing: 5) { // Added back vertical gap (Point 2)
                     HStack(spacing: 0) {
-                        Text("atlyś")
+                        Text("atlys")
                             .font(.system(size: 32, weight: .bold))
                             .foregroundColor(.black)
                         
